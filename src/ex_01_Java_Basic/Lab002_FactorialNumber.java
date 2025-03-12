@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
 
-public class FactorialNo{
+public class Lab002_FactorialNumber {
     public static void main(String[] args) {
         int num=5;
         int fact=1;
