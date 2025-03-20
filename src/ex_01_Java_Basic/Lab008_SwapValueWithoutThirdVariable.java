@@ -1,6 +1,6 @@
-package ex_01_Java_Int_Basic;
+package ex_01_Java_Basic;
 
-public class Lab008_SwapIntValueWithoutThirdVariable {
+public class Lab008_SwapValueWithoutThirdVariable {
     public static void main(String[] args) {
         int num1=5;
         int num2=10;
