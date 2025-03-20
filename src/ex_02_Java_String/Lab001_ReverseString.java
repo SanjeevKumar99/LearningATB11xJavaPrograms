@@ -1,6 +1,6 @@
 package ex_02_Java_String;
 
-public class Lab009_ReverseString {
+public class Lab001_ReverseString {
     public static void main(String[] args) {
         String str = "Sanjeev";
         String rev = "";
