@@ -1,6 +1,6 @@
 package ex_02_Java_String;
 
-public class Lab009_DuplicateCharInString {
+public class Lab010_DuplicateCharInString {
     public static void main(String[] args) {
         String str = "Sanjeev";
         char ch[]= str.toCharArray();
