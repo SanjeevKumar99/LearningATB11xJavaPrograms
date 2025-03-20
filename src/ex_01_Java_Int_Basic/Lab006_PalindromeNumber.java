@@ -1,8 +1,8 @@
-package ex_01_Java_Basic;
+package ex_01_Java_Int_Basic;
 
 public class Lab006_PalindromeNumber {
     public static void main(String[] args) {
-        int num=18891;
+        int num=198891;
         int originalNo= num;
         int rev=0;
          while( num !=0){

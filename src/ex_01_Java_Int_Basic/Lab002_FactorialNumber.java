@@ -1,4 +1,4 @@
-package ex_01_Java_Basic;
+package ex_01_Java_Int_Basic;
 
 public class Lab002_FactorialNumber {
     public static void main(String[] args) {
