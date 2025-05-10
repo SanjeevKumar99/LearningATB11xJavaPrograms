@@ -2,7 +2,7 @@ package ex_01_Java_Basic;
 
 public class Lab009_Armstrong {
     public static void main(String[] args) {
-        int num=345;
+        int num=153;
         int temp=num;
         int sum=0;
         int rem;
